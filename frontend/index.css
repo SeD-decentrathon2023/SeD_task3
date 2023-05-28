@@ -1,0 +1,45 @@
+#dashboard {
+  position: relative;
+  background: #14151A;
+}
+
+#header {
+  position: absolute;
+  width: 1440px;
+  height: 68px;
+  left: 0px;
+  top: 0px;
+  background: #2B2F36;
+}
+
+#subHeaderText {
+  position: absolute;
+  width: 507px;
+  height: 44px;
+  left: 100px;
+  top: 88px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  display: flex;
+  align-items: center;
+  color: #E6E8EA;
+}
+
+#spsList {
+  position: absolute;
+  width: 1240px;
+  height: 2631px;
+  left: 100px;
+  top: 152px;
+  background: #D9D9D9
+}
+
+.spInformation{
+  position: relative;
+  width: 1240px;
+  height: 395px;
+  background: #2B2F36;
+}
